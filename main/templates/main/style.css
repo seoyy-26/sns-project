@@ -1,0 +1,43 @@
+
+body {
+  background-color: lightblue;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  opacity: 0.8;
+}
+
+.center {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  top: 10%;
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-family: 함초롬바탕, Helvetica, sans-serif;
+  color: darkcyan;
+
+}
+
+h3 {
+  font-family: 함초롬바탕, Helvetica, sans-serif;
+  color: black;
+
+}
+
+p {
+  font-family: 배찌체, Helvetica, sans-serif;
+  color: black;
+  font-size: 15px;
+
+}
